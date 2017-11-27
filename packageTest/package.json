@@ -1,0 +1,24 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "dfg",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sdf"
+  },
+  "keywords": [
+    "sdf"
+  ],
+  "author": "sdf",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "superagent": "^3.8.1",
+    "utility": "^1.13.1"
+  }
+}
