@@ -7,4 +7,9 @@ add the branch dev
 ##first
 ##add the branch dev
 ##fix the branch dev
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+## fix the branck dev second
+>>>>>>> dev
+merge dev 
