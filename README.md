@@ -13,3 +13,4 @@ add the branch dev
 ## fix the branck dev second
 >>>>>>> dev
 merge dev 
+add information in feature1 branch
